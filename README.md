@@ -1,3 +1,5 @@
+![banner](https://raw.githubusercontent.com/deficts/deficts/master/Banner.png)
+
 ## Hello! I'm Diego 🙋🏽‍♂️
 
 - 👨🏽‍💻 I'm a software engineering student from México 🇲🇽, passionate for tech and entrepreneurship.
