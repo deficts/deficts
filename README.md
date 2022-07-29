@@ -2,7 +2,7 @@
 
 ## Hello! I'm Diego 🙋🏽‍♂️
 
-- 👨🏽‍💻 I'm a software engineering student from México 🇲🇽, passionate for tech and entrepreneurship.
+- 👨🏽‍💻 I'm a software engineer from México 🇲🇽, passionate for tech and entrepreneurship.
 
 - ☕️ I'm currently working with a lot of JavaScript and web development technologies.
 
